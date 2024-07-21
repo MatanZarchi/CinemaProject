@@ -2,7 +2,7 @@
 
 ***
 <p align="center">Hebrew explanation video</p>
-<p align="center">[https://youtu.be/YvmjyhmvBkk]</p>
+<p align="center">https://youtu.be/YvmjyhmvBkk</p>
 
 <p align="center">Welcome to the Cinema App project!</p>
 <p align="center">This application is designed to enhance your movie-watching experience by providing detailed information on popular and upcoming movies, as well as managing your favorite movies</p>
