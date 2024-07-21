@@ -1,4 +1,4 @@
-<h1 align="center">Cinema App</h1>
+<h1 align="center">Cinema App🎬📽️🍿</h1>
 
 ***
 <p align="center">Hebrew explanation video</p>
@@ -57,8 +57,19 @@ The Cinema App leverages Firebase for real-time database management and user aut
 
 ![9](https://github.com/user-attachments/assets/f0a07f31-ef2e-4e53-8edc-5fd5686e5a2f)
 
-***
+## With
 
-✉️ [bstasb@gmail.com](url)  
-💿 https://github.com/StasBratanich  
-🖥️ https://www.linkedin.com/in/stas-bratanich-computer-science/  
+- kotlin (by Android Studio)
+
+## Getting Started
+
+To build and run the app locally, follow these steps:
+
+1. **Clone the repository:** `https://github.com/MatanZarchi/CinemaProject.git`
+2. **Open the project in visual studio/ vscode.**
+3. **Build and run the app.**
+
+## Acknowledgments
+
+📧 **Mail:** [matanelf2@gmail.com](url)  
+👨‍💻**Git:** https://github.com/MatanZarchi 
