@@ -60,6 +60,7 @@ The Cinema App leverages Firebase for real-time database management and user aut
 ## With
 
 - kotlin (by Android Studio)
+- Firebase🔥
 
 ## Getting Started
 
