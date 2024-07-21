@@ -1,4 +1,4 @@
-<h1 align="center">Cinema App🎬📽️🍿</h1>
+<h1 align="center">Cinema App with Firebase🔥🎬📽️🍿</h1>
 
 ***
 <p align="center">Hebrew explanation video</p>
